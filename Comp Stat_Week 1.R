@@ -1,5 +1,7 @@
 #COMP STAT lectures 1 & 2 (Week 1)
 
+### Pretend to add comment to the code. - Sara 06/08/23
+
 install.packages("datasets")
 library(datasets)
 data(infert)
